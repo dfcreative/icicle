@@ -1,0 +1,34 @@
+{
+  "name": "icicle",
+  "version": "0.0.0",
+  "description": "Can freeze and unfreeze on any object. Tiny mutex.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "better-assert": "~1.0.1"
+  },
+  "devDependencies": {
+    "mocha": "~1.21.4"
+  },
+  "scripts": {
+    "test": "mocha --harmony"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dfcreative/icicle.git"
+  },
+  "keywords": [
+    "mutex",
+    "lock",
+    "freeze",
+    "latch"
+  ],
+  "author": "dfcreative",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dfcreative/icicle/issues"
+  },
+  "homepage": "https://github.com/dfcreative/icicle"
+}
