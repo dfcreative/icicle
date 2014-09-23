@@ -7,10 +7,10 @@
     "test": "test"
   },
   "dependencies": {
-    "better-assert": "~1.0.1"
   },
   "devDependencies": {
-    "mocha": "~1.21.4"
+    "mocha": "~1.21.4",
+    "better-assert": "~1.0.1"
   },
   "scripts": {
     "test": "mocha --harmony"
