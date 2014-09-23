@@ -1,4 +1,4 @@
-# Icicle
+# ❄ Icicle
 
 Tiny mutex.
 
