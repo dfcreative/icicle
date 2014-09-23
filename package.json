@@ -1,13 +1,12 @@
 {
   "name": "icicle",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Can freeze and unfreeze on any object. Tiny mutex.",
   "main": "index.js",
   "directories": {
     "test": "test"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "mocha": "~1.21.4",
     "better-assert": "~1.0.1"
