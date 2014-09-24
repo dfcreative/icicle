@@ -1,6 +1,6 @@
 {
   "name": "icicle",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Can freeze and unfreeze on any object. Tiny mutex.",
   "main": "index.js",
   "directories": {
