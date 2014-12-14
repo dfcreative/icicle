@@ -1,4 +1,4 @@
-# ❄ Icicle [![Code Climate](https://codeclimate.com/github/dfcreative/icicle/badges/gpa.svg)](https://codeclimate.com/github/dfcreative/icicle) <a href="UNLICENSE"><img src="http://upload.wikimedia.org/wikipedia/commons/6/62/PD-icon.svg" width="20"/></a>
+# ❄ Icicle [![Build Status](https://travis-ci.org/dfcreative/icicle.svg?branch=master)](https://travis-ci.org/dfcreative/icicle) [![Code Climate](https://codeclimate.com/github/dfcreative/icicle/badges/gpa.svg)](https://codeclimate.com/github/dfcreative/icicle) <a href="UNLICENSE"><img src="http://upload.wikimedia.org/wikipedia/commons/6/62/PD-icon.svg" width="20"/></a>
 
 Tiny mutex.
 
