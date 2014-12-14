@@ -6,6 +6,7 @@
   "directories": {
     "test": "test"
   },
+  "files": "index.js",
   "dependencies": {},
   "devDependencies": {
     "mocha": "~1.21.4",
@@ -25,7 +26,7 @@
     "latch"
   ],
   "author": "dfcreative",
-  "license": "MIT",
+  "license": "unlicense",
   "bugs": {
     "url": "https://github.com/dfcreative/icicle/issues"
   },

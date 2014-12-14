@@ -1,4 +1,4 @@
-# ❄ Icicle
+# ❄ Icicle [![Code Climate](https://codeclimate.com/github/dfcreative/icicle/badges/gpa.svg)](https://codeclimate.com/github/dfcreative/icicle) <a href="UNLICENSE"><img src="http://upload.wikimedia.org/wikipedia/commons/6/62/PD-icon.svg" width="20"/></a>
 
 Tiny mutex.
 
@@ -20,6 +20,5 @@ icicle.unfreeze(a, 'waitABit'); // false - lock isn’t set
 icicle.isFrozen(a, 'waitABit'); // false
 ```
 
-## License
 
-MIT
+[![NPM](https://nodei.co/npm/icicle.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/icicle/)
